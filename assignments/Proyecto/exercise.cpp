@@ -1,4 +1,3 @@
-//Realiza lo que te pide el ejercicio en Canvas
 #include <iostream>
 using namespace std;
 
